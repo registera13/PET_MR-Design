@@ -1,0 +1,68 @@
+*****************************************************************
+      SolidWorks Corporation - IGES Processor Status Report
+*****************************************************************
+=================================================================
+General Information
+=================================================================
+Sending System Product I.D.  : 4000189-DOC - GE TABLETOP SYSTEM
+Receiving System Product I.D.: 4000189-DOC - GE TABLETOP SYSTEM
+File Name                    : Z:\James Tobin\Sentinelle Improvements\Duke University\IGES Models\Patient Support Assembly.IGS
+Sending System               : SolidWorks 2017
+Preprocessor Version         : SolidWorks 2017
+File Creation Date           : 180531.080745
+Model Creation Date          : 180531.080745
+Units                        : MM
+Model Space Scale            : 1
+Author                       : 310281120
+Organization                 : 
+
+
+=================================================================
+Entity Processing Information
+=================================================================
+
+
+=================================================================
+Precision analysis of IGES file:
+=================================================================
+  Most prevalent number of significant digits:               1
+  Highest number of significant digits:                     10
+  Average number of significant digits:                5.47445
+  Maximum distance to origin:                          1021.36
+  Minimum distance to origin:                                0
+  Effective number of significant digits:                   10
+
+
+=================================================================
+Entity Summary
+=================================================================
+-----------------------------------------------------------------
+Type Name                                         Count Converted
+---- ----                                         ----- ---------
+100  Arc                                          11512     11512
+102  Composite curve                              18776     18776
+110  Line                                         25902     25902
+120  Surface of revolution                         3545      3545
+124  Transformation matrix                        10621     10621
+126  Rational B-spline curve                      61512     61512
+128  Rational B-spline surface                     5567      5567
+142  Curve on a parametric surface                 9388      9388
+144  Trimmed parametric surface                    9112      9112
+308  Subfigure definition                            21        21
+314  Color definition                                15        15
+408  Singular subfigure instance                     81        81
+_________________________________________________________________
+
+
+=================================================================
+Result Summary
+=================================================================
+SolidWorks Feature Type                Count
+-----------------------                -----
+Solid feature(s)                       21
+Surface feature(s)                     0
+Curve/Sketch feature(s)                0
+--------------------------------------------
+Start time: Thursday, May 31, 2018 11:27:44
+Finish time: Thursday, May 31, 2018 11:28:42
+Processing time: 0 days, 00 hours, 00 mins, 58 secs
