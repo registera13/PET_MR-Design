@@ -10,10 +10,7 @@ Contributors: Yuan-Chuan Tai, Stan Majewski, Mark B. Williams, Timothy G. Turkin
   <img width="460" height="300" src="doc/rotation.gif">
   </p>
   <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
     <a href="https://github.com/registera13/PET_MR-Design"><strong>Explore the docs »</strong></a>
-    <br />
     <br />
     <a href="https://github.com/registera13/PET_MR-Design/tree/master/PET_MR_%20solidworks">SolidWorks Files</a>
     ·
