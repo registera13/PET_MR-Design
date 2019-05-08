@@ -4,7 +4,7 @@ Design by Alan Register Fall 2018 in DUKE MMIL with Martin Tornai
 
 <!-- PROJECT LOGO -->
 <br />
-  ![Alt Text](doc/rotation.gif)
+  ![PETMR](doc/rotation.gif)
 
   <h3 align="center">Duke Developing Breast PET/MR System</h3>
 
