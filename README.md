@@ -8,18 +8,19 @@ Design by Alan Register Fall 2018 in DUKE MMIL with Martin Tornai
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/registera13/PET_MR-Design"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
+    <a href="https://github.com/registera13/PET_MR-Design/tree/master/PET_MR_%20solidworks">SolidWorks Files</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://github.com/registera13/PET_MR-Design/issues">Request issues/Bugs</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/registera13/PET_MR-Design/tree/master/raw_MR_SENT_bed">MR BED Files</a>
   </p>
 </p>
 
 <p align="center">
-![PETMR](doc/rotation.gif)
+  <img width="460" height="300" src="doc/rotation.gif">
 </p>
+
 
