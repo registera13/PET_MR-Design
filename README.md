@@ -1,11 +1,11 @@
 # PET_MR-Design
 Design by Alan Register Fall 2018 in DUKE MMIL with Martin Tornai
- 
+
+
+![PETMR](doc/rotation.gif)
 
 <!-- PROJECT LOGO -->
 <br />
-  ![PETMR](doc/rotation.gif)
-
   <h3 align="center">Duke Developing Breast PET/MR System</h3>
 
   <p align="center">
