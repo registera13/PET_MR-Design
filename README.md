@@ -30,3 +30,6 @@ Total-Body PET in whole body imaging, we propose a completely new geometrical sc
 * inherently co-registered PET and MRI data allowing for fine spatial localization, attenuation & scatter corrections, as well as
   joint reconstruction
 * Modular design, allowing removal of lateral detectors for standard breast immobilization and MR-guided biopsy
+
+## Solidworks Designs
+In <a href="PET_MR_ solidworks">SolidWork Folder</a> contain list of master 3d CAD files for the final 
